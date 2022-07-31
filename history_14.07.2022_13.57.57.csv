@@ -1,0 +1,9 @@
+Date;Type;Sender;Credit;;Recipient;Debit;;Pay system;Status;Id;Shop URL;Shop ID;Order ID;API;Description
+14 Июл 2022 13:56;withdrawal;P1071063282;-;-;;0.00075000;BTC;Bitcoin;success;1700383190;;;;;""
+14 Июл 2022 12:37;withdrawal;P1071063282;-;-;;0.00075000;BTC;Bitcoin;success;1700340268;;;0931CF76-6F5E-4A70-ABEA-D2C615225B21;;""
+12 Июл 2022 23:23;transfer;P1071063282;0.00189000;BTC;P1071063282;38.21;EUR;;success;1699447127;;;;;""
+12 Июл 2022 23:11;deposit;;38.10;EUR;P1071063282;-;-;VISA;success;1699441349;;;;;""
+10 Июл 2022 14:08;deposit;;28.57;EUR;P1071063282;-;-;Payeer;canceled;1697946375;;;;;""
+5
+;;;66.67;EUR;;38.21;EUR
+;;;0.00189000;BTC;;0.00150000;BTC
